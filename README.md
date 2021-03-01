@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm heechan 😄
+Good day! I am Heechan Na who is interested in creating something from South Korea
+
+### Languages and Tools 
+https://simpleicons.org/icons/html5.svg
 
 <!--
 **naheechan/naheechan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
