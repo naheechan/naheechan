@@ -2,7 +2,10 @@
 Good day! I am Heechan Na who is interested in creating something from South Korea
 
 ### Languages and Tools 
-https://simpleicons.org/icons/html5.svg
+<!-- ![html5](https://simpleicons.org/icons/html5.svg) -->
+[![html5](http://img.shields.io/badge/-html5-#E34F26?style=flat-square&logo=https://simpleicons.org/icons/html5.svg&link=https://zzsza.github.io/)](https://simpleicons.org/icons/html5.svg)
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
 
 <!--
 **naheechan/naheechan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
