@@ -3,8 +3,9 @@ Good day! I am Heechan Na who is interested in creating something from South Kor
 
 ### Languages and Tools 
 <!-- ![html5](https://simpleicons.org/icons/html5.svg) -->
-![html5](http://img.shields.io/badge/-html5-E34F26?style=flat-square&logo=HTML5)
-![html5](http://img.shields.io/badge/-html5-E34F26?style=flat-square&logo=github)
+![html5](http://img.shields.io/badge/-html5-E34F26?style=flat&logo=html5)
+![html5](http://img.shields.io/badge/-html5-E34F26?style=flat-square&logo=youtube)
+![html5](http://img.shields.io/badge/-html5-E34F26?style=flat-square&logo=html5)
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
 
