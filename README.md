@@ -12,4 +12,4 @@ Good day! I am Heechan Na who is interested in creating something from South Kor
 ![javascript](http://img.shields.io/badge/-javascript-black?style=flat-square&logo=JavaScript)
 ![jQuery](http://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery) <br>
 
-![Oracle](http://img.shields.io/badge/-Oracle DB-F80000?style=flat-square&logo=Oracle)
+![Oracle](http://img.shields.io/badge/-Oracle%20DB-F80000?style=flat-square&logo=Oracle)
